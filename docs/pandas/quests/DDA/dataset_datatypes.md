@@ -1,4 +1,5 @@
 ## quest
+
 |--|--|--|--|--|
 NO|Variable|Definition|Key|분석가의견
 1|PassengerId|||
@@ -11,3 +12,4 @@ NO|Variable|Definition|Key|분석가의견
 8|Ticket|||
 9|Fare|||
 10|Embarked|||
+
