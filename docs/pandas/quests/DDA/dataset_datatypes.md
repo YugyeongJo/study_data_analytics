@@ -2,8 +2,8 @@
 <details>
 <summary>Titanic</summary>
 
-|--|--|--|--|--|
 NO|Variable|Definition|Key|분석가의견
+|--|--|--|--|--|
 1|PassengerId|||
 2|Pclass|||
 3|Name|||
